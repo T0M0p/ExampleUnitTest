@@ -1,6 +1,9 @@
 package jp.ac.uryukyu.ie.e175714;
 
 
+import main.jp.ac.uryukyu.ie.e175714.Enemy;
+import main.jp.ac.uryukyu.ie.e175714.Hero;
+
 /**
  * Created by tnal on 2016/11/13.
  */
